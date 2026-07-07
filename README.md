@@ -1,2 +1,3 @@
-# gender-analysis-food-crop-production
-Gender analysis of food crop production among smallholder farmers in Ife South Local Government Area using Python and Jupyter Notebook.
+# Gender Analysis of Food Crop Production
+
+Synthetic portfolio project using 120 randomly generated respondents.
